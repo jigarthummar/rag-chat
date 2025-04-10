@@ -30,6 +30,8 @@ ENV/
 .venv
 env.bak/
 venv.bak/
+.gradio/
+
 
 # IDE specific files
 .idea/
